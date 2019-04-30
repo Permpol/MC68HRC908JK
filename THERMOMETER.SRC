@@ -1,0 +1,8 @@
+[Files]
+vectors.c
+main.c
+disp_kbd.c
+conv_table.s
+[Headers]
+thermometer.h
+[Documents]
